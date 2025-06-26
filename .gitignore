@@ -1,1 +1,7 @@
+# Ignore token file to keep your token safe
+token.py
+
+# Python cache files
+__pycache__/
+*.pyc
 
